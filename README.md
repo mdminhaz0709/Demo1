@@ -1,3 +1,3 @@
 # Demo1
 
-Author-Minhaz
+Author-Md Minhaz Alam
